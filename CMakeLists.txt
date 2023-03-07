@@ -3,4 +3,4 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(untitled backjoon2480.c backjoon1978.c)
+add_executable(untitled backjoon2480.c backjoon1978.c backjoon10828.c)

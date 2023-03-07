@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //백준 2480번 3수 비교문제
 int main()
 {
     int a,b,c,i;

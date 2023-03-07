@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //백준 1978 소수판별문제
 int main()
 {
     int a,b,c=0;
