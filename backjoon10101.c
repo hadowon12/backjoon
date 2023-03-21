@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//위에서 처리한 조건은 내려갈수록 가벼워 질수있음
 int main()
 {
     int a,b,c;

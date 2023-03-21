@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//자기자신을 곱하는건 기호가 뭐더라....
 int main()
 {
     int a,total=1;
