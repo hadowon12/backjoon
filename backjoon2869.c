@@ -1,9 +1,9 @@
-#include<stdio.h
+#include <stdio.h>
 int main()
 {
-    int a,b,v;
-    scanf("%d %d %d",&a,&b,&v);
-    int day = ;
-
-
+    int A, B, V;
+    int day;
+    scanf("%d %d %d", &A, &B, &V);
+    day = (V - B - 1) / (A - B) + 1;
+    printf("%d", day);
 }
